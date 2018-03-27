@@ -1,0 +1,15 @@
+# Packet Fence:
+**https://packetfence.org/doc/PacketFence_Administration_Guide.html#_authentication
+*https://packetfence.org/downloads/PacketFence/doc/PacketFence_Administration_Guide.pdf
+https://inverse.ca/downloads/PacketFence/doc/PacketFence_Administration_Guide-pt_BR-3.0.3.pdf
+*https://packetfence.org/downloads/PacketFence/doc/PacketFence_FortiGate_Quick_Install_Guide.pdf
+https://packetfence.org/download.html#/releases
+https://www.vivaolinux.com.br/artigo/PacketFence-em-Debian-6
+http://blog.corujadeti.com.br/packetfence-nac-open-source-o-sonho-de-todo-administrador-de-redes/
+*https://www.lume.ufrgs.br/bitstream/handle/10183/142239/000994024.pdf?sequence=1
+
+Opinioes PacketFence:
+*https://sourceforge.net/p/packetfence/mailman/message/30504060/
+https://www.reddit.com/r/sysadmin/comments/1zrxhf/pfsense_packetfence_untangle_or_clearos_for/
+https://forum.pfsense.org/index.php?topic=8463.0
+https://books.google.com.br/books?id=ZjteH8afY2kC&pg=PT450&lpg=PT450&dq=qual+melhor+packetfence+ou+pfsense&source=bl&ots=Kr1optyMyR&sig=-V0f6us5VIMlqXThrb5lOLzlHGw&hl=pt-BR&sa=X&ved=0ahUKEwizyuulldjXAhVDvZAKHS4nCcAQ6AEISjAE#v=onepage&q=qual%20melhor%20packetfence%20ou%20pfsense&f=false
